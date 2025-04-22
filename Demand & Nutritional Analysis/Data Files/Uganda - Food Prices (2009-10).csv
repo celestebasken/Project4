@@ -1,0 +1,224 @@
+t,m,j,u,price
+2009-10,Central,Beans (dry),Kg,1482.902357
+2009-10,Central,Beans (fresh),Kg,1353.534119
+2009-10,Central,Beef,Kg,4508.333333
+2009-10,Central,Beer,Kg,3689.396825
+2009-10,Central,Bread,Kg,2264.738292
+2009-10,Central,Cabbage (green),Kg,1886.180198
+2009-10,Central,Cassava (dry),Kg,910.7476633
+2009-10,Central,Cassava (fresh),Kg,988.4936659
+2009-10,Central,Chicken,Kg,31586.41975
+2009-10,Central,Cigarettes,Kg,3162.777778
+2009-10,Central,Coffee,Kg,3465.533331
+2009-10,Central,Cooking Oil,Kg,1383.920946
+2009-10,Central,Dodo,Kg,458.1776272
+2009-10,Central,Dry/Smoked Fish,Kg,2662.564092
+2009-10,Central,Eggs,Kg,744.5754717
+2009-10,Central,Eggs,Tray of 30 eggs,
+2009-10,Central,Fresh Fish,Kg,3801.680683
+2009-10,Central,Ghee,Kg,12484.06537
+2009-10,Central,Goat Meat,Kg,4860
+2009-10,Central,Ground Nuts (in shell),Kg,1275
+2009-10,Central,Ground Nuts (pounded),Kg,3278.265732
+2009-10,Central,Ground Nuts (shelled),Kg,2396.491227
+2009-10,Central,Infant Formula,Kg,21495.55556
+2009-10,Central,Irish Potatoes,Kg,991.7159763
+2009-10,Central,Maize (cobs),Kg,779.2372198
+2009-10,Central,Maize (flour),Kg,1258.016949
+2009-10,Central,Maize (grains),Kg,545.7142857
+2009-10,Central,Mangos,Kg,619.6153846
+2009-10,Central,"Margarine, Butter, etc",Kg,4782.539683
+2009-10,Central,Matoke,Kg,1017.352039
+2009-10,Central,Millet,Kg,1588.888889
+2009-10,Central,Onions,Kg,512.4340611
+2009-10,Central,Oranges,Kg,710.3365384
+2009-10,Central,Other Alcoholic Drinks,Kg,3737.871148
+2009-10,Central,Other Drinks,Kg,1162.20238
+2009-10,Central,Other Foods,Kg,
+2009-10,Central,Other Fruits,Kg,2790.662651
+2009-10,Central,Other Juice,Kg,
+2009-10,Central,Other Meat,Kg,4117.647059
+2009-10,Central,Other Tobacco,Kg,9660.15898
+2009-10,Central,Other Vegetables,Kg,502.778454
+2009-10,Central,Passion Fruits,Kg,881.4433683
+2009-10,Central,Peas,Kg,2471.052632
+2009-10,Central,Pineapple,Kg,350
+2009-10,Central,Pork,Kg,3876.923077
+2009-10,Central,Restaurant (food),Kg,
+2009-10,Central,Restaurant (soda),Kg,2157.088356
+2009-10,Central,Rice,Kg,2161.558441
+2009-10,Central,Salt,Kg,1621.395063
+2009-10,Central,Sim Sim,Kg,2484.615385
+2009-10,Central,Sorghum,Kg,979.9999974
+2009-10,Central,Sugar,Kg,2463.968579
+2009-10,Central,Sweet Bananas,Kg,242.2891304
+2009-10,Central,Sweet Potatoes (dry),Kg,912.5
+2009-10,Central,Sweet Potatoes (fresh),Kg,892.6176845
+2009-10,Central,Tea,Kg,1615.24144
+2009-10,Central,Tomatoes,Kg,451.2790438
+2009-10,Eastern,Beans (dry),Kg,1327.362637
+2009-10,Eastern,Beans (fresh),Kg,999.6987952
+2009-10,Eastern,Beef,Kg,4215.813118
+2009-10,Eastern,Beer,Kg,2769.52381
+2009-10,Eastern,Bread,Kg,1860.689655
+2009-10,Eastern,Cabbage (green),Kg,1624.43959
+2009-10,Eastern,Cassava (dry),Kg,618.6086815
+2009-10,Eastern,Cassava (fresh),Kg,909.6196868
+2009-10,Eastern,Chicken,Kg,22748.49398
+2009-10,Eastern,Cigarettes,Kg,3890.265625
+2009-10,Eastern,Coffee,Kg,4238.888888
+2009-10,Eastern,Cooking Oil,Kg,905.607813
+2009-10,Eastern,Dodo,Kg,400.7449577
+2009-10,Eastern,Dry/Smoked Fish,Kg,1561.326083
+2009-10,Eastern,Eggs,Kg,712.5
+2009-10,Eastern,Fresh Fish,Kg,1771.834693
+2009-10,Eastern,Ghee,Kg,31530.76923
+2009-10,Eastern,Goat Meat,Kg,4060.97561
+2009-10,Eastern,Ground Nuts (in shell),Kg,1096.138996
+2009-10,Eastern,Ground Nuts (pounded),Kg,2712.804166
+2009-10,Eastern,Ground Nuts (shelled),Kg,2222.988506
+2009-10,Eastern,Infant Formula,Kg,2660
+2009-10,Eastern,Irish Potatoes,Kg,704.8125633
+2009-10,Eastern,Maize (cobs),Kg,609.6851262
+2009-10,Eastern,Maize (flour),Kg,989.7468354
+2009-10,Eastern,Maize (grains),Kg,599.4736842
+2009-10,Eastern,Mangos,Kg,536.6619981
+2009-10,Eastern,"Margarine, Butter, etc",Kg,3623.076923
+2009-10,Eastern,Matoke,Kg,742.7911089
+2009-10,Eastern,Millet,Kg,962.3116043
+2009-10,Eastern,Onions,Kg,352.6330903
+2009-10,Eastern,Oranges,Kg,508.8392857
+2009-10,Eastern,Other Alcoholic Drinks,Kg,2350.53351
+2009-10,Eastern,Other Drinks,Kg,1338.888889
+2009-10,Eastern,Other Foods,Kg,
+2009-10,Eastern,Other Fruits,Kg,2039.215686
+2009-10,Eastern,Other Juice,Kg,
+2009-10,Eastern,Other Meat,Kg,2810
+2009-10,Eastern,Other Tobacco,Kg,5649.761905
+2009-10,Eastern,Other Vegetables,Kg,423.2075472
+2009-10,Eastern,Passion Fruits,Kg,917.3245614
+2009-10,Eastern,Peas,Kg,1290.747254
+2009-10,Eastern,Pork,Kg,3447.849462
+2009-10,Eastern,Restaurant (food),Kg,
+2009-10,Eastern,Restaurant (soda),Kg,2088.819876
+2009-10,Eastern,Rice,Kg,1729.946524
+2009-10,Eastern,Salt,Kg,1192.614613
+2009-10,Eastern,Sim Sim,Kg,2262.5
+2009-10,Eastern,Sorghum,Kg,636.7389322
+2009-10,Eastern,Sugar,Kg,2409.452948
+2009-10,Eastern,Sweet Bananas,Kg,245.8907629
+2009-10,Eastern,Sweet Potatoes (dry),Kg,493.3544631
+2009-10,Eastern,Sweet Potatoes (fresh),Kg,922.2335737
+2009-10,Eastern,Tea,Kg,1122.749366
+2009-10,Eastern,Tomatoes,Kg,304.4101732
+2009-10,Northern,Beans (dry),Kg,1223.639865
+2009-10,Northern,Beans (fresh),Kg,829.8181818
+2009-10,Northern,Beef,Kg,4214.377289
+2009-10,Northern,Beer,Kg,2955.855856
+2009-10,Northern,Bread,Kg,1752.564103
+2009-10,Northern,Cabbage (green),Kg,2202.307692
+2009-10,Northern,Cassava (dry),Kg,652.0813268
+2009-10,Northern,Cassava (fresh),Kg,712.3276561
+2009-10,Northern,Chicken,Kg,20402.77778
+2009-10,Northern,Cigarettes,Kg,908.4859155
+2009-10,Northern,Coffee,Kg,530.4347826
+2009-10,Northern,Cooking Oil,Kg,2061.336969
+2009-10,Northern,Dodo,Kg,168.7701335
+2009-10,Northern,Dry/Smoked Fish,Kg,1741.954337
+2009-10,Northern,Eggs,Kg,799.4
+2009-10,Northern,Eggs,Tray of 30 eggs,
+2009-10,Northern,Fresh Fish,Kg,2198.235294
+2009-10,Northern,Ghee,Kg,1727.272727
+2009-10,Northern,Goat Meat,Kg,4468.965517
+2009-10,Northern,Ground Nuts (in shell),Kg,778.4126984
+2009-10,Northern,Ground Nuts (pounded),Kg,2974.219046
+2009-10,Northern,Ground Nuts (shelled),Kg,1613.513514
+2009-10,Northern,Infant Formula,Kg,7500
+2009-10,Northern,Irish Potatoes,Kg,973.0769231
+2009-10,Northern,Maize (cobs),Kg,550.456621
+2009-10,Northern,Maize (flour),Kg,962.9161747
+2009-10,Northern,Maize (grains),Kg,839.4834055
+2009-10,Northern,Mangos,Kg,234.7823698
+2009-10,Northern,"Margarine, Butter, etc",Kg,2971.428571
+2009-10,Northern,Matoke,Kg,882.7685669
+2009-10,Northern,Millet,Kg,849.8181818
+2009-10,Northern,Onions,Kg,407.4652907
+2009-10,Northern,Oranges,Kg,368.627451
+2009-10,Northern,Other Alcoholic Drinks,Kg,1914.008482
+2009-10,Northern,Other Drinks,Kg,8287.202374
+2009-10,Northern,Other Foods,Kg,
+2009-10,Northern,Other Fruits,Kg,688.1253767
+2009-10,Northern,Other Juice,Kg,
+2009-10,Northern,Other Meat,Kg,3258.823529
+2009-10,Northern,Other Tobacco,Kg,8520.756227
+2009-10,Northern,Other Vegetables,Kg,220.9989414
+2009-10,Northern,Passion Fruits,Kg,511.1111111
+2009-10,Northern,Peas,Kg,1126.352941
+2009-10,Northern,Pork,Kg,3565.517241
+2009-10,Northern,Restaurant (food),Kg,
+2009-10,Northern,Restaurant (soda),Kg,2358.084425
+2009-10,Northern,Rice,Kg,1988.584906
+2009-10,Northern,Salt,Kg,1364.006358
+2009-10,Northern,Sim Sim,Kg,1664.082278
+2009-10,Northern,Sorghum,Kg,681.9451671
+2009-10,Northern,Sugar,Kg,3129.827107
+2009-10,Northern,Sweet Bananas,Kg,217.3552279
+2009-10,Northern,Sweet Potatoes (dry),Kg,704.15
+2009-10,Northern,Sweet Potatoes (fresh),Kg,689.0313853
+2009-10,Northern,Tea,Kg,853.4005035
+2009-10,Northern,Tomatoes,Kg,385.6372549
+2009-10,Western,Beans (dry),Kg,1291.864587
+2009-10,Western,Beans (fresh),Kg,875.1928937
+2009-10,Western,Beef,Kg,4137.280702
+2009-10,Western,Beer,Kg,2842.424242
+2009-10,Western,Bread,Kg,2361.403509
+2009-10,Western,Cabbage (green),Kg,1600.0979
+2009-10,Western,Cassava (dry),Kg,728.538175
+2009-10,Western,Cassava (fresh),Kg,940.88812
+2009-10,Western,Chicken,Kg,26395.83333
+2009-10,Western,Cigarettes,Kg,2666.493056
+2009-10,Western,Coffee,Kg,1183.333333
+2009-10,Western,Cooking Oil,Kg,2293.926141
+2009-10,Western,Dodo,Kg,251.8083204
+2009-10,Western,Dry/Smoked Fish,Kg,3567.986633
+2009-10,Western,Eggs,Kg,806.25
+2009-10,Western,Fresh Fish,Kg,4402.941176
+2009-10,Western,Ghee,Kg,9003.354976
+2009-10,Western,Goat Meat,Kg,4696.666667
+2009-10,Western,Ground Nuts (in shell),Kg,914.5833333
+2009-10,Western,Ground Nuts (pounded),Kg,2884.400779
+2009-10,Western,Ground Nuts (shelled),Kg,2184.210526
+2009-10,Western,Infant Formula,Kg,1800
+2009-10,Western,Irish Potatoes,Kg,811.0576923
+2009-10,Western,Maize (cobs),Kg,588.264254
+2009-10,Western,Maize (flour),Kg,1089.71875
+2009-10,Western,Maize (grains),Kg,475
+2009-10,Western,Mangos,Kg,458.3163265
+2009-10,Western,"Margarine, Butter, etc",Kg,4483.333317
+2009-10,Western,Matoke,Kg,1032.150867
+2009-10,Western,Millet,Kg,1107.961783
+2009-10,Western,Onions,Kg,460.1899827
+2009-10,Western,Oranges,Kg,613.75
+2009-10,Western,Other Alcoholic Drinks,Kg,2750.406504
+2009-10,Western,Other Drinks,Kg,667.8571429
+2009-10,Western,Other Foods,Kg,
+2009-10,Western,Other Fruits,Kg,1193.522009
+2009-10,Western,Other Juice,Kg,
+2009-10,Western,Other Meat,Kg,7333.333333
+2009-10,Western,Other Tobacco,Kg,6124.600367
+2009-10,Western,Other Vegetables,Kg,440.4880125
+2009-10,Western,Passion Fruits,Kg,731.0273566
+2009-10,Western,Peas,Kg,1871.428571
+2009-10,Western,Pork,Kg,3938.888889
+2009-10,Western,Restaurant (food),Kg,
+2009-10,Western,Restaurant (soda),Kg,2373.260073
+2009-10,Western,Rice,Kg,2000
+2009-10,Western,Salt,Kg,1468.667605
+2009-10,Western,Sim Sim,Kg,1953.846154
+2009-10,Western,Sorghum,Kg,1087.499999
+2009-10,Western,Sugar,Kg,2465.903308
+2009-10,Western,Sweet Bananas,Kg,214.9411207
+2009-10,Western,Sweet Potatoes (dry),Kg,175
+2009-10,Western,Sweet Potatoes (fresh),Kg,563.4143222
+2009-10,Western,Tea,Kg,1695.381525
+2009-10,Western,Tomatoes,Kg,557.9781106

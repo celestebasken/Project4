@@ -1,0 +1,407 @@
+t,m,j,u,price
+2018-19,Central,Avocado,Kg,834.34762
+2018-19,Central,Beans (dry),Kg,2446.292714
+2018-19,Central,Beans (fresh),Kg,1955.132163
+2018-19,Central,Beef,Kg,10347.13376
+2018-19,Central,Beer,Kg,5833.496985
+2018-19,Central,Biscuits,Kg,2462.051282
+2018-19,Central,Bogoya,Kg,1614.338691
+2018-19,Central,Bongo,Kg,1867.857143
+2018-19,Central,Bread,Kg,4417.41573
+2018-19,Central,Cabbage (green),Kg,2488.231722
+2018-19,Central,Cakes,Kg,5250
+2018-19,Central,Carrots,Kg,806.818338
+2018-19,Central,Cassava (dry),Kg,1332.47334
+2018-19,Central,Cassava (fresh),Kg,1625.404698
+2018-19,Central,Chapati,Kg,1720.930233
+2018-19,Central,Cheese,Kg,30000
+2018-19,Central,Chicken,Kg,11500
+2018-19,Central,Chicken (broiler),Kg,14904.7619
+2018-19,Central,Cigarettes,Kg,1905
+2018-19,Central,Coffee,Kg,13048.06202
+2018-19,Central,Cooking Oil (refined),Kg,2350.936813
+2018-19,Central,Cooking Oil (unrefined),Kg,3730.30303
+2018-19,Central,Cornflakes,Kg,15500
+2018-19,Central,Dodo,Kg,1354.821166
+2018-19,Central,Donuts,Kg,1396.464646
+2018-19,Central,Dry/Smoked Fish,Kg,2750.559715
+2018-19,Central,Eggplant,Kg,595.1299009
+2018-19,Central,Eggs,Kg,1484.723464
+2018-19,Central,Eggs,Tray of 30 eggs,
+2018-19,Central,Garlic,Kg,1264.672189
+2018-19,Central,Ghee,Kg,21614.74359
+2018-19,Central,Ginger (fresh),Kg,627.1455477
+2018-19,Central,Ginger (powder),Kg,21650
+2018-19,Central,Goat Meat,Kg,11538.46154
+2018-19,Central,Green Pepper,Kg,654.1375774
+2018-19,Central,Ground Nuts (in shell),Kg,3470.465686
+2018-19,Central,Ground Nuts (paste),Kg,5291.666667
+2018-19,Central,Ground Nuts (pounded),Kg,5432.998325
+2018-19,Central,Ground Nuts (shelled),Kg,5177.419355
+2018-19,Central,Ice Cream,Kg,5900
+2018-19,Central,Infant Formula,Kg,66250
+2018-19,Central,Irish Potatoes,Kg,1448.808196
+2018-19,Central,Jackfruit (fresh),Kg,3784.998387
+2018-19,Central,Kabalagala,Kg,355.785124
+2018-19,Central,Macaroni/Spaghetti,Kg,6703.448276
+2018-19,Central,Maize (cobs),Kg,787.9368395
+2018-19,Central,Maize (flour),Kg,1775.870401
+2018-19,Central,Maize (grains),Kg,3600
+2018-19,Central,Mangos,Kg,946.4693921
+2018-19,Central,"Margarine, Butter, etc",Kg,8647.619048
+2018-19,Central,Matoke,Kg,1794.967521
+2018-19,Central,Milk (powdered),Kg,21250
+2018-19,Central,Millet Flour,Kg,2931.597222
+2018-19,Central,Mukene,Kg,6194.521256
+2018-19,Central,Mushrooms,Kg,958.5661765
+2018-19,Central,Ndiizi,Kg,1004.896966
+2018-19,Central,Nkejje (dried),Kg,2261.859979
+2018-19,Central,Okra,Kg,854.1666667
+2018-19,Central,Onions,Kg,1528.755648
+2018-19,Central,Oranges,Kg,919.0053221
+2018-19,Central,Other Alcoholic Drinks,Kg,8381.994048
+2018-19,Central,Other Drinks,Kg,3927.777778
+2018-19,Central,Other Fish (dried),Kg,
+2018-19,Central,Other Fish (fresh),Kg,1333.333333
+2018-19,Central,Other Foods,Kg,
+2018-19,Central,Other Fruits,Kg,2004.244982
+2018-19,Central,Other Juice,Kg,3500
+2018-19,Central,Other Juice (fresh),Kg,2781.512605
+2018-19,Central,Other Juice (packed),Kg,11050
+2018-19,Central,Other Juice (restaurants),Kg,3093.073593
+2018-19,Central,Other Meat,Kg,6833.333333
+2018-19,Central,Other Spices,Kg,2871.201814
+2018-19,Central,Other Tobacco,Kg,17097.22222
+2018-19,Central,Other Vegetables,Kg,757.9839982
+2018-19,Central,Passion Fruits,Kg,1284.127353
+2018-19,Central,Pawpaw,Kg,2501.705498
+2018-19,Central,Peas,Kg,7973.856209
+2018-19,Central,Peas (dry),Kg,3950
+2018-19,Central,Perch (dried),Kg,3330.578209
+2018-19,Central,Perch (fresh),Kg,7013.054226
+2018-19,Central,Pineapple,Kg,3984.449188
+2018-19,Central,Pork,Kg,8650
+2018-19,Central,Pumpkins,Kg,4290.695324
+2018-19,Central,Restaurant (food),Kg,
+2018-19,Central,Restaurant (soda),Kg,3316.890003
+2018-19,Central,Rice,Kg,3863.856362
+2018-19,Central,Salt,Kg,1271.161549
+2018-19,Central,Samosas,Kg,794.6428571
+2018-19,Central,Sausages,Kg,8562.5
+2018-19,Central,Sim Sim,Kg,9188.888889
+2018-19,Central,Sim Sim (paste),Kg,7666.666667
+2018-19,Central,Sorghum,Kg,4644.444444
+2018-19,Central,Soybeans (dry),Kg,2000
+2018-19,Central,Sugar,Kg,3855.81571
+2018-19,Central,Sugarcane,Kg,1893.885312
+2018-19,Central,Sweet Potatoes (dry),Kg,633.3333333
+2018-19,Central,Sweet Potatoes (fresh),Kg,1512.759386
+2018-19,Central,Tea (leaves),Kg,10674.29519
+2018-19,Central,Tea (other),Kg,19910
+2018-19,Central,Tilapia (fresh),Kg,3370.982404
+2018-19,Central,Tomatoes,Kg,775.1093845
+2018-19,Central,Waragi,Kg,16878.14208
+2018-19,Central,Water,Kg,4000
+2018-19,Central,Watermelon,Kg,4941.475847
+2018-19,Central,Wheat (flour),Kg,2658.333333
+2018-19,Central,Yams (arrowroot),Kg,1670.175848
+2018-19,Central,Yoghurt,Kg,6380.952381
+2018-19,Eastern,Avocado,Kg,698.4240134
+2018-19,Eastern,Beans (dry),Kg,2794.777778
+2018-19,Eastern,Beans (fresh),Kg,1478.137255
+2018-19,Eastern,Beef,Kg,9072.111554
+2018-19,Eastern,Beer,Kg,5200.696864
+2018-19,Eastern,Biscuits,Kg,3008.333333
+2018-19,Eastern,Bogoya,Kg,1439.384546
+2018-19,Eastern,Bongo,Kg,1074.576271
+2018-19,Eastern,Bread,Kg,4348.044693
+2018-19,Eastern,Cabbage (green),Kg,1888.299016
+2018-19,Eastern,Cakes,Kg,1750
+2018-19,Eastern,Carrots,Kg,791.0663922
+2018-19,Eastern,Cassava (dry),Kg,1015.102249
+2018-19,Eastern,Cassava (fresh),Kg,1286.35264
+2018-19,Eastern,Chapati,Kg,1764.130435
+2018-19,Eastern,Chicken,Kg,11333.33333
+2018-19,Eastern,Cigarettes,Kg,1300
+2018-19,Eastern,Coffee,Kg,18166.66667
+2018-19,Eastern,Cooking Oil (refined),Kg,1913.316981
+2018-19,Eastern,Cooking Oil (unrefined),Kg,2531.313131
+2018-19,Eastern,Dodo,Kg,742.4057608
+2018-19,Eastern,Donuts,Kg,1068.918919
+2018-19,Eastern,Dry/Smoked Fish,Kg,2221.297507
+2018-19,Eastern,Eggplant,Kg,457.3338051
+2018-19,Eastern,Eggs,Kg,1410.208333
+2018-19,Eastern,Eggs,Tray of 30 eggs,
+2018-19,Eastern,Garlic,Kg,1302.601986
+2018-19,Eastern,Ghee,Kg,5500
+2018-19,Eastern,Ginger (fresh),Kg,484.7313539
+2018-19,Eastern,Goat Meat,Kg,9143.859649
+2018-19,Eastern,Green Pepper,Kg,597.7894033
+2018-19,Eastern,Ground Nuts (in shell),Kg,2625.5978
+2018-19,Eastern,Ground Nuts (paste),Kg,4977.966102
+2018-19,Eastern,Ground Nuts (pounded),Kg,5159.07173
+2018-19,Eastern,Ground Nuts (shelled),Kg,5710.355987
+2018-19,Eastern,Ice Cream,Kg,5700
+2018-19,Eastern,Irish Potatoes,Kg,1080.573152
+2018-19,Eastern,Jackfruit (fresh),Kg,3971.847712
+2018-19,Eastern,Kabalagala,Kg,332.4041096
+2018-19,Eastern,Macaroni/Spaghetti,Kg,4822.222222
+2018-19,Eastern,Maize (cobs),Kg,705.848867
+2018-19,Eastern,Maize (flour),Kg,1456.420233
+2018-19,Eastern,Maize (grains),Kg,1000
+2018-19,Eastern,Mangos,Kg,487.8351162
+2018-19,Eastern,"Margarine, Butter, etc",Kg,9800
+2018-19,Eastern,Matoke,Kg,1565.765375
+2018-19,Eastern,Millet Flour,Kg,2410.833333
+2018-19,Eastern,Mukene,Kg,6904.169331
+2018-19,Eastern,Mushrooms,Kg,787.037037
+2018-19,Eastern,Ndiizi,Kg,1253.142287
+2018-19,Eastern,Nkejje (dried),Kg,2301.149425
+2018-19,Eastern,Okra,Kg,927.4425287
+2018-19,Eastern,Onions,Kg,967.4025141
+2018-19,Eastern,Oranges,Kg,647.1006706
+2018-19,Eastern,Other Alcoholic Drinks,Kg,3033.914729
+2018-19,Eastern,Other Fish (dried),Kg,1333.333333
+2018-19,Eastern,Other Fish (fresh),Kg,2666.666667
+2018-19,Eastern,Other Foods,Kg,
+2018-19,Eastern,Other Fruits,Kg,529.0751382
+2018-19,Eastern,Other Juice,Kg,1875
+2018-19,Eastern,Other Juice (packed),Kg,6904.166667
+2018-19,Eastern,Other Juice (restaurants),Kg,3166.666667
+2018-19,Eastern,Other Meat,Kg,7500
+2018-19,Eastern,Other Spices,Kg,3306.666667
+2018-19,Eastern,Other Tobacco,Kg,33541.66667
+2018-19,Eastern,Other Vegetables,Kg,575.0596935
+2018-19,Eastern,Passion Fruits,Kg,1292.734466
+2018-19,Eastern,Pawpaw,Kg,1995.149585
+2018-19,Eastern,Peas,Kg,3000
+2018-19,Eastern,Peas (dry),Kg,6668.518519
+2018-19,Eastern,Perch (dried),Kg,2328.317939
+2018-19,Eastern,Perch (fresh),Kg,3675.662358
+2018-19,Eastern,Pineapple,Kg,3934.766659
+2018-19,Eastern,Pork,Kg,8127.272727
+2018-19,Eastern,Pumpkins,Kg,3535.438682
+2018-19,Eastern,Restaurant (food),Kg,
+2018-19,Eastern,Restaurant (soda),Kg,3343.729553
+2018-19,Eastern,Rice,Kg,3153.191489
+2018-19,Eastern,Salt,Kg,1239.275362
+2018-19,Eastern,Samosas,Kg,630
+2018-19,Eastern,Sausages,Kg,1983.333333
+2018-19,Eastern,Sim Sim,Kg,8388.888889
+2018-19,Eastern,Sim Sim (paste),Kg,3571.428571
+2018-19,Eastern,Sorghum,Kg,1233.964646
+2018-19,Eastern,Soybeans (dry),Kg,3414.880952
+2018-19,Eastern,Sugar,Kg,3750.453721
+2018-19,Eastern,Sugarcane,Kg,1090.579999
+2018-19,Eastern,Sweet Potatoes (dry),Kg,664.9588868
+2018-19,Eastern,Sweet Potatoes (fresh),Kg,1207.037037
+2018-19,Eastern,"Sweet Potatoes (white, flour)",Kg,624.5833333
+2018-19,Eastern,Tea (leaves),Kg,8733.78119
+2018-19,Eastern,Tilapia (fresh),Kg,2910.425356
+2018-19,Eastern,Tomatoes,Kg,661.1055322
+2018-19,Eastern,Waragi,Kg,15254.96599
+2018-19,Eastern,Water,Kg,2075
+2018-19,Eastern,Watermelon,Kg,3859.203008
+2018-19,Eastern,Wheat (flour),Kg,2625
+2018-19,Eastern,Yams (arrowroot),Kg,1345.801911
+2018-19,Eastern,Yoghurt,Kg,4000
+2018-19,Northern,Avocado,Kg,783.1980538
+2018-19,Northern,Beans (dry),Kg,10553.58255
+2018-19,Northern,Beans (fresh),Kg,1239.781297
+2018-19,Northern,Beef,Kg,9381.656805
+2018-19,Northern,Beer,Kg,4782.823129
+2018-19,Northern,Biscuits,Kg,2147.863248
+2018-19,Northern,Bogoya,Kg,1406.526728
+2018-19,Northern,Bongo,Kg,882.3529412
+2018-19,Northern,Bread,Kg,4303.389831
+2018-19,Northern,Cabbage (green),Kg,2776.892263
+2018-19,Northern,Cakes,Kg,9326.470588
+2018-19,Northern,Carrots,Kg,2059.52381
+2018-19,Northern,Cassava (dry),Kg,1539.323394
+2018-19,Northern,Cassava (fresh),Kg,901.2114076
+2018-19,Northern,Chapati,Kg,1605.172414
+2018-19,Northern,Cigarettes,Kg,3047.077922
+2018-19,Northern,Coffee,Kg,7436.507937
+2018-19,Northern,Cooking Oil (refined),Kg,3383.289334
+2018-19,Northern,Cooking Oil (unrefined),Kg,3538.467861
+2018-19,Northern,Cornflakes,Kg,20000
+2018-19,Northern,Dodo,Kg,539.9990482
+2018-19,Northern,Donuts,Kg,1280.136986
+2018-19,Northern,Dry/Smoked Fish,Kg,2633.414122
+2018-19,Northern,Eggplant,Kg,471.649468
+2018-19,Northern,Eggs,Kg,1583.045977
+2018-19,Northern,Eggs,Tray of 30 eggs,
+2018-19,Northern,Garlic,Kg,1903.559287
+2018-19,Northern,Ghee,Kg,10483.33333
+2018-19,Northern,Ginger (fresh),Kg,571.0019737
+2018-19,Northern,Ginger (powder),Kg,3600
+2018-19,Northern,Goat Meat,Kg,9977.777778
+2018-19,Northern,Green Pepper,Kg,719.0110057
+2018-19,Northern,Ground Nuts (in shell),Kg,5692.287234
+2018-19,Northern,Ground Nuts (paste),Kg,5368.965517
+2018-19,Northern,Ground Nuts (pounded),Kg,13850
+2018-19,Northern,Ground Nuts (shelled),Kg,12786.57074
+2018-19,Northern,Ice Cream,Kg,4800
+2018-19,Northern,Irish Potatoes,Kg,1414.874915
+2018-19,Northern,Jackfruit (fresh),Kg,4822.61198
+2018-19,Northern,Kabalagala,Kg,255.7641509
+2018-19,Northern,Macaroni/Spaghetti,Kg,5200
+2018-19,Northern,Maize (cobs),Kg,956.6777787
+2018-19,Northern,Maize (flour),Kg,4789.095128
+2018-19,Northern,Maize (grains),Kg,3531.15942
+2018-19,Northern,Mangos,Kg,402.5358079
+2018-19,Northern,"Margarine, Butter, etc",Kg,9000
+2018-19,Northern,Matoke,Kg,1739.048574
+2018-19,Northern,Milk (powdered),Kg,22500
+2018-19,Northern,Millet Flour,Kg,7218.897638
+2018-19,Northern,Mukene,Kg,12260.08567
+2018-19,Northern,Mushrooms,Kg,914.1960784
+2018-19,Northern,Ndiizi,Kg,1463.710405
+2018-19,Northern,Okra,Kg,394.6745365
+2018-19,Northern,Onions,Kg,799.9736259
+2018-19,Northern,Oranges,Kg,447.2988321
+2018-19,Northern,Other Alcoholic Drinks,Kg,3058.066971
+2018-19,Northern,Other Drinks,Kg,1000
+2018-19,Northern,Other Fish (dried),Kg,4666.666667
+2018-19,Northern,Other Fish (fresh),Kg,9166.666667
+2018-19,Northern,Other Foods,Kg,
+2018-19,Northern,Other Fruits,Kg,917.0215747
+2018-19,Northern,Other Juice,Kg,2187.5
+2018-19,Northern,Other Juice (fresh),Kg,2000
+2018-19,Northern,Other Juice (packed),Kg,9185.185185
+2018-19,Northern,Other Juice (restaurants),Kg,1708.333333
+2018-19,Northern,Other Meat,Kg,8450
+2018-19,Northern,Other Spices,Kg,4800
+2018-19,Northern,Other Tobacco,Kg,10780.46086
+2018-19,Northern,Other Vegetables,Kg,492.1107076
+2018-19,Northern,Passion Fruits,Kg,1081.672486
+2018-19,Northern,Pawpaw,Kg,1729.429157
+2018-19,Northern,Peas,Kg,10282.09877
+2018-19,Northern,Peas (dry),Kg,10281.88073
+2018-19,Northern,Perch (dried),Kg,2943.18089
+2018-19,Northern,Perch (fresh),Kg,4656.169149
+2018-19,Northern,Pineapple,Kg,5172.679328
+2018-19,Northern,Pork,Kg,9062.5
+2018-19,Northern,Pumpkins,Kg,3837.293336
+2018-19,Northern,Restaurant (food),Kg,
+2018-19,Northern,Restaurant (soda),Kg,3356.913393
+2018-19,Northern,Rice,Kg,8559.52381
+2018-19,Northern,Salt,Kg,1278.307509
+2018-19,Northern,Samosas,Kg,630
+2018-19,Northern,Sim Sim,Kg,16420.05814
+2018-19,Northern,Sim Sim (paste),Kg,5803.571429
+2018-19,Northern,Sorghum,Kg,3840.111111
+2018-19,Northern,Soybeans (dry),Kg,7452.380952
+2018-19,Northern,Soybeans (fresh),Kg,800
+2018-19,Northern,Sugar,Kg,3933.068783
+2018-19,Northern,Sugarcane,Kg,1927.153611
+2018-19,Northern,Sweet Potatoes (dry),Kg,767.7361854
+2018-19,Northern,Sweet Potatoes (fresh),Kg,971.4183007
+2018-19,Northern,"Sweet Potatoes (white, flour)",Kg,333.3333333
+2018-19,Northern,Tea (leaves),Kg,10114.47282
+2018-19,Northern,Tea (other),Kg,5000
+2018-19,Northern,Tilapia (fresh),Kg,5617.308266
+2018-19,Northern,Tomatoes,Kg,532.8836479
+2018-19,Northern,Waragi,Kg,9850.579976
+2018-19,Northern,Water,Kg,29980
+2018-19,Northern,Watermelon,Kg,5525.219577
+2018-19,Northern,Wheat (flour),Kg,2875
+2018-19,Northern,Yams (arrowroot),Kg,1337.5
+2018-19,Northern,Yoghurt,Kg,7100
+2018-19,Western,Avocado,Kg,640.8778714
+2018-19,Western,Beans (dry),Kg,2135.654762
+2018-19,Western,Beans (fresh),Kg,1568.841912
+2018-19,Western,Beef,Kg,9847.826087
+2018-19,Western,Beer,Kg,5684.571429
+2018-19,Western,Biscuits,Kg,2969.230769
+2018-19,Western,Bogoya,Kg,1525.67061
+2018-19,Western,Bongo,Kg,2000
+2018-19,Western,Bread,Kg,4493.589744
+2018-19,Western,Cabbage (green),Kg,2326.318975
+2018-19,Western,Cakes,Kg,2537.5
+2018-19,Western,Carrots,Kg,884.2555665
+2018-19,Western,Cassava (dry),Kg,1435.544218
+2018-19,Western,Cassava (fresh),Kg,1494.525113
+2018-19,Western,Chapati,Kg,1831.666667
+2018-19,Western,Chicken,Kg,25000
+2018-19,Western,Cigarettes,Kg,5466.666667
+2018-19,Western,Coffee,Kg,6640.740741
+2018-19,Western,Cooking Oil (refined),Kg,2916.977161
+2018-19,Western,Cooking Oil (unrefined),Kg,3427.766386
+2018-19,Western,Dodo,Kg,927.6903699
+2018-19,Western,Donuts,Kg,1502.717391
+2018-19,Western,Dry/Smoked Fish,Kg,3082.512235
+2018-19,Western,Eggplant,Kg,585.689916
+2018-19,Western,Eggs,Kg,1599.778761
+2018-19,Western,Eggs,Tray of 30 eggs,
+2018-19,Western,Garlic,Kg,2687.950859
+2018-19,Western,Ghee,Kg,28618.61862
+2018-19,Western,Ginger (fresh),Kg,712.9735482
+2018-19,Western,Ginger (powder),Kg,8000
+2018-19,Western,Goat Meat,Kg,11136.90476
+2018-19,Western,Green Pepper,Kg,704.3646521
+2018-19,Western,Ground Nuts (paste),Kg,5305.555556
+2018-19,Western,Ground Nuts (pounded),Kg,4845.409429
+2018-19,Western,Ground Nuts (shelled),Kg,5345.454545
+2018-19,Western,Ice Cream,Kg,4000
+2018-19,Western,Irish Potatoes,Kg,1177.862835
+2018-19,Western,Jackfruit (fresh),Kg,4301.41869
+2018-19,Western,Kabalagala,Kg,354.8611111
+2018-19,Western,Macaroni/Spaghetti,Kg,6145.454545
+2018-19,Western,Maize (cobs),Kg,1458.847572
+2018-19,Western,Maize (flour),Kg,1853.43985
+2018-19,Western,Maize (grains),Kg,1750
+2018-19,Western,Mangos,Kg,632.702157
+2018-19,Western,"Margarine, Butter, etc",Kg,8800
+2018-19,Western,Matoke,Kg,1326.881852
+2018-19,Western,Milk (powdered),Kg,38000
+2018-19,Western,Millet Flour,Kg,2652.401747
+2018-19,Western,Mukene,Kg,5530.268199
+2018-19,Western,Mushrooms,Kg,1248.585973
+2018-19,Western,Ndiizi,Kg,1328.97159
+2018-19,Western,Nkejje (dried),Kg,7225.574713
+2018-19,Western,Okra,Kg,625
+2018-19,Western,Onions,Kg,1757.075695
+2018-19,Western,Oranges,Kg,847.2471686
+2018-19,Western,Other Alcoholic Drinks,Kg,11307.69231
+2018-19,Western,Other Drinks,Kg,4166.666667
+2018-19,Western,Other Fish (dried),Kg,
+2018-19,Western,Other Fish (fresh),Kg,
+2018-19,Western,Other Foods,Kg,
+2018-19,Western,Other Juice (restaurants),Kg,4904.761905
+2018-19,Western,Other Meat,Kg,10000
+2018-19,Western,Other Spices,Kg,6011.111111
+2018-19,Western,Other Tobacco,Kg,15475.69444
+2018-19,Western,Other Vegetables,Kg,933.6154886
+2018-19,Western,Passion Fruits,Kg,1091.16266
+2018-19,Western,Pawpaw,Kg,2157.314842
+2018-19,Western,Peas,Kg,3730.065359
+2018-19,Western,Peas (dry),Kg,3652.777778
+2018-19,Western,Perch (dried),Kg,1329.090909
+2018-19,Western,Perch (fresh),Kg,8066.666667
+2018-19,Western,Pineapple,Kg,3227.703045
+2018-19,Western,Pork,Kg,9339.622642
+2018-19,Western,Pumpkins,Kg,3256.721052
+2018-19,Western,Restaurant (food),Kg,
+2018-19,Western,Restaurant (soda),Kg,3260.281577
+2018-19,Western,Rice,Kg,3921.634615
+2018-19,Western,Salt,Kg,1360.857538
+2018-19,Western,Samosas,Kg,933.3333333
+2018-19,Western,Sausages,Kg,6000
+2018-19,Western,Sim Sim,Kg,25000
+2018-19,Western,Sim Sim (paste),Kg,666.6666667
+2018-19,Western,Sorghum,Kg,1731.25
+2018-19,Western,Soybeans (fresh),Kg,1800
+2018-19,Western,Sugar,Kg,4020.595533
+2018-19,Western,Sugarcane,Kg,1789.858642
+2018-19,Western,Sweet Potatoes (dry),Kg,812.5
+2018-19,Western,Sweet Potatoes (fresh),Kg,1304.877509
+2018-19,Western,Tea (leaves),Kg,10775.33784
+2018-19,Western,Tea (other),Kg,3000
+2018-19,Western,Tilapia (fresh),Kg,2700.281403
+2018-19,Western,Tomatoes,Kg,877.73207
+2018-19,Western,Waragi,Kg,10207.49822
+2018-19,Western,Water,Kg,1620
+2018-19,Western,Watermelon,Kg,5613.330936
+2018-19,Western,Wheat (flour),Kg,3140
+2018-19,Western,Yams (arrowroot),Kg,1308.491926
