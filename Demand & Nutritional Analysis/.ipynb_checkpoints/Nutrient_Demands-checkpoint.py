@@ -11,7 +11,7 @@ import seaborn as sns
 import warnings
 warnings.simplefilter("ignore")
 
-%run Acquiring_Dataframes.py
+from Acquiring_Dataframes import ugd8_p, ugd8_x, ugd8_c, ugd8_z, ugd_fct, ugd_rdi
 
 #Get saved result
 ugd8_result = cfe.read_pickle('RGSN Files/Uganda19-20.rgsn')
