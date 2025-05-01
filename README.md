@@ -24,6 +24,7 @@ Contains analysis for
 - Nutritional Analysis: Looking at the Most-Deficient Nutrients
 - How can we increase these most limited nutrients by increasing the consumption of existing foods?
 - Which food items are available to subsidize?
+- Determining Subsidies for Vitamin E and Vitamin K-rich foods, and associated demand curves
 
 
 #### 📁 **Data Files**  
