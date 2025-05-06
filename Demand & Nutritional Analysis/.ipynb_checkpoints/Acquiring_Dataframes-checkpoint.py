@@ -2,21 +2,21 @@ import pandas as pd
 import numpy as np
 
 # 2005-06 Data
-# Prices
+# Prices Dataframe
 ugd1_p0 = pd.read_csv('Data Files/Uganda - Food Prices (2005-06).csv')
 ugd1_p0 = ugd1_p0[ugd1_p0["u"] == "Kg"]
 ugd1_p = pd.pivot_table(ugd1_p0, values="price", index=["j","u"], columns=["t","m"] , aggfunc="median")
-# Food Expenditures
+# Food Expenditures Dataframe
 ugd1_x0 = pd.read_csv('Data Files/Uganda - Food Expenditures (2005-06).csv')
 ugd1_x0['i'] = ugd1_x0['i'].astype(str)
 ugd1_x = pd.pivot_table(ugd1_x0, values="Expenditure", index=["i","t","m"], columns="j" , aggfunc="median")
-# Consumption
+# Consumption Dataframe
 ugd1_x_long = ugd1_x.stack().reset_index(name="Expenditure")
 ugd1_p_long = ugd1_p0
 ugd1_c = ugd1_x_long.merge(ugd1_p_long, on=["j", "t", "m"], how="left")
 ugd1_c["Consumption"] = ugd1_c["Expenditure"] / ugd1_c["price"]
 ugd1_c = ugd1_c.pivot_table(values="Consumption", index=["i","t","m","u"], columns="j", aggfunc="sum")
-# HH Characteristics
+# HH Characteristics Dataframe
 ugd_z0 = pd.read_csv("Data Files/Uganda - Household Characteristics.csv")
 ugd1_z = ugd_z0[ugd_z0['t'] == '2005-06']
 ugd1_z = ugd1_z.set_index(['i','t','m'])
