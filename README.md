@@ -17,16 +17,6 @@ Analyze the nutrition and cost - demand of current system in Uganda from 2019-20
 
 ### **Project Structure**
 
-#### 📄 **19_20_Nutritional_Analysis.ipynb**  
-Contains analysis for
-- Determining the Most Consumed Foods
-- Nutritional Adequacy of Diet: Determining Which Nutrients Are Lacking 
-- Nutritional Analysis: Looking at the Most-Deficient Nutrients
-- How can we increase these most limited nutrients by increasing the consumption of existing foods?
-- Which food items are available to subsidize?
-- Determining Subsidies for Vitamin E and Vitamin K-rich foods, and associated demand curves
-
-
 #### 📁 **Data Files**  
 Contains all CSV files used in our analysis, including raw and cleaned datasets from various Uganda surveys.
 
@@ -36,4 +26,26 @@ Includes saved nutrient dataframes generated from our analysis for each year of 
 #### 📁 **RGSN Files**  
 Stores regression-ready data for each year, used in our statistical modeling and demand estimation analyses.
 
-#### 📄 **Acquiring Dataframes.ipynb**  
+#### 📄 **Nutritional_Analysis_19_20.ipynb**  
+Contains analysis for
+- Determining the Most Consumed Foods
+- Nutritional Adequacy of Diet: Determining Which Nutrients Are Lacking 
+- Nutritional Analysis: Looking at the Most-Deficient Nutrients
+- How can we increase these most limited nutrients by increasing the consumption of existing foods?
+- Which food items are available to subsidize?
+- Determining Subsidies for Vitamin E and Vitamin K-rich foods, and associated demand curves
+
+#### 📄 **Acquiring Dataframes.py**  
+Contains code for acquiring prices, food expenditures, consumption, household characteristics, recommended daily intakes, and a food conversion table.
+
+#### 📄 **Cost Analysis.ipynb**  
+Analysis of Marshallian and Hicksian demand curves, compensating variation, and deadweight loss for subsidized goods (specifically tomatoes).
+
+#### 📄 **Estimate Demand Systems.ipynb**
+Includes code for defining a regression to define our data, followed by an estimate demand system analysis. Our demand system focuses on the following parameters: (Relative) Income Elasticity, Demand and Household Composition, and Welfare. It also analyzes demand and utility.                                                                                        
+                                                                                        
+#### 📄 **Nutrient Demands.ipynb**  
+Code to determine and visualize the nutrient demands for our population: analyzing the nutritional needs of households, and how nutritional adequacy of a deficient nutrient and price of a good interact.                                                                                                                                                                                           
+
+#### 📄 **Unit Tests.ipynb**  
+File containing unit tests, in the form of assert statements, to enforce the integrity of functions defined and used in cost analysis.                                                                                                                                        
